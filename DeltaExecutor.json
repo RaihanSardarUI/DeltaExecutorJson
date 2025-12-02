@@ -3,22 +3,22 @@
     "name": "Delta Executor",
     "description": "The #1 Free Roblox Exploit for iOS & Android",
     "website": "https://deltaexecut.net",
-    "lastGlobalUpdate": "2025-03-15",
-    "totalDownloads": 4188564,
+    "lastGlobalUpdate": "2025-06-02",
+    "totalDownloads": 4250000,
     "versions": {
       "android": {
-        "version": "v3.669",
-        "size": "224 MB",
-        "lastUpdated": "March 15, 2025",
+        "version": "v2.701",
+        "size": "173 MB",
+        "lastUpdated": "June 2, 2025",
         "status": "working",
         "description": "The most powerful Roblox executor for Android. No root required with full script execution capabilities.",
-        "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v2.669/Delta-Executor-Android.apk",
+        "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/Delta-2.701.apk",
         "changelog": [
-          "Added new script hub with 500+ scripts",
-          "Improved injection stability",
-          "Fixed crash on Roblox 2.615+",
-          "Enhanced UI responsiveness",
-          "Better memory management"
+          "Updated for latest Roblox version",
+          "Improved script execution stability",
+          "Enhanced anti-detection system",
+          "Performance optimizations",
+          "Bug fixes and improvements"
         ],
         "requirements": {
           "os": "Android 7.0+",
@@ -39,66 +39,76 @@
         ],
         "previousVersions": [
           {
-            "version": "v2.650",
-            "releaseDate": "March 1, 2025",
-            "size": "220 MB",
-            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v2.650/Delta-Executor-Android-v2.650.apk",
+            "version": "v2.700",
+            "releaseDate": "June 1, 2025",
+            "size": "173 MB",
+            "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/DeltaExecutor-v2.700.apk",
             "changelog": [
-              "Fixed script execution timeout issues",
-              "Improved anti-detection system",
-              "Added 50 new scripts to hub",
-              "Performance optimizations",
-              "Bug fixes for Samsung devices"
+              "Major version update",
+              "New script hub features",
+              "Improved injection method",
+              "Bug fixes"
             ]
           },
           {
-            "version": "v2.640",
-            "releaseDate": "February 15, 2025",
-            "size": "218 MB",
-            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v2.640/Delta-Executor-Android-v2.640.apk",
+            "version": "v2.699",
+            "releaseDate": "May 30, 2025",
+            "size": "230 MB",
+            "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/DeltaExecutor-v2.699.apk",
             "changelog": [
-              "New UI theme options",
-              "Fixed memory leak issues",
-              "Improved injection speed by 40%",
-              "Added auto-update feature",
-              "Bug fixes and stability improvements"
+              "Performance improvements",
+              "Fixed script execution issues",
+              "Updated UI components",
+              "Stability fixes"
             ]
           },
           {
-            "version": "v2.630",
-            "releaseDate": "February 1, 2025",
+            "version": "v2.698",
+            "releaseDate": "May 28, 2025",
+            "size": "223 MB",
+            "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/DeltaExecutor-v2698.apk",
+            "changelog": [
+              "Script hub updates",
+              "Bug fixes for Samsung devices",
+              "Memory optimization",
+              "Improved stability"
+            ]
+          },
+          {
+            "version": "v2.697",
+            "releaseDate": "May 25, 2025",
+            "size": "226 MB",
+            "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/DeltaExecutor-v2.697.apk",
+            "changelog": [
+              "Fixed compatibility issues",
+              "Enhanced script execution",
+              "UI improvements",
+              "Bug fixes"
+            ]
+          },
+          {
+            "version": "v2.696",
+            "releaseDate": "May 22, 2025",
             "size": "215 MB",
-            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v2.630/Delta-Executor-Android-v2.630.apk",
+            "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/DeltaExecutor-v2.696.apk",
             "changelog": [
-              "Major performance update",
-              "Fixed compatibility with Roblox 2.610",
-              "New script editor features",
-              "Improved error handling"
-            ]
-          },
-          {
-            "version": "v2.620",
-            "releaseDate": "January 15, 2025",
-            "size": "212 MB",
-            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v2.620/Delta-Executor-Android-v2.620.apk",
-            "changelog": [
-              "Initial 2025 release",
-              "Updated for latest Roblox version",
-              "Security improvements",
+              "Updated for Roblox compatibility",
+              "Performance optimizations",
+              "New features added",
               "Various bug fixes"
             ]
           }
         ]
       },
       "ios": {
-        "version": "v662.53",
-        "size": "154 MB",
-        "lastUpdated": "March 15, 2025",
+        "version": "v2.701",
+        "size": "116 MB",
+        "lastUpdated": "June 2, 2025",
         "status": "working",
         "description": "Delta Executor for iOS devices. No jailbreak required with AltStore or Sideloadly installation.",
-        "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v662.53/Delta-Executor-iOS.ipa",
+        "downloadUrl": "https://github.com/RaihanSardarUI/DeltaExecutorJson/releases/download/2.701/Delta-2.701.ipa",
         "changelog": [
-          "Full iOS 17 support",
+          "Full iOS 17/18 support",
           "Improved sideloading compatibility",
           "New touch-optimized interface",
           "Fixed script hub loading issues",
@@ -123,6 +133,18 @@
         ],
         "previousVersions": [
           {
+            "version": "v662.53",
+            "releaseDate": "March 15, 2025",
+            "size": "154 MB",
+            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v662.53/Delta-Executor-iOS.ipa",
+            "changelog": [
+              "Full iOS 17 support",
+              "Improved sideloading compatibility",
+              "New touch-optimized interface",
+              "Fixed script hub loading issues"
+            ]
+          },
+          {
             "version": "v660.00",
             "releaseDate": "March 1, 2025",
             "size": "150 MB",
@@ -145,21 +167,9 @@
               "Fixed crash on launch issue",
               "Better memory management"
             ]
-          },
-          {
-            "version": "v655.00",
-            "releaseDate": "February 1, 2025",
-            "size": "145 MB",
-            "downloadUrl": "https://github.com/ZellRaihan/Delta-Executor-Files/releases/download/v655.00/Delta-Executor-iOS-v655.00.ipa",
-            "changelog": [
-              "Major update for Roblox compatibility",
-              "Performance improvements",
-              "New features added"
-            ]
           }
         ]
       }
     }
   }
 }
-
